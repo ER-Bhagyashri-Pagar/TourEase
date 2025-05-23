@@ -23,23 +23,19 @@
 ```
 📂 TourEase/
 ├── 📊 P2. Database Design, Conceptual ERD/
-│   ├── Conceptual ER Diagrams
-│   ├── Entity Definitions
-│   └── Initial Requirements Analysis
+│   └── Conceptual ER Diagrams & Entity Analysis
 ├── 🔄 P3 - Logical ERD Model/
-│   ├── Logical Database Design
-│   ├── Relationship Mappings
-│   └── Normalization Documentation
+│   └── Logical Database Design & Normalization
 ├── 🛠️ P4. Database Schema Implementation/
-│   ├── Table Creation Scripts
-│   ├── Constraint Definitions
-│   └── Data Type Specifications
+│   └── SQL Server Schema & Table Structures
 ├── ⚙️ P5.PSM Implementation/
-│   ├── Stored Procedures
-│   ├── Triggers
-│   ├── Functions
-│   └── Indexing Strategies
-├── 📊 TourEase.pbix - Power BI Dashboard
+│   └── Stored Procedures, Triggers & Functions
+├── 📋 P1.Tour Management System with Travel Package.../
+│   └── Project Requirements & Documentation
+├── 🎥 TourEase Demo.mp4
+│   └── Complete Frontend Application Demonstration
+├── 📊 TourEase.pptx
+│   └── Project Presentation & Technical Overview
 └── 📖 README.md
 ```
 
@@ -87,16 +83,27 @@
 ## 🎥 Project Demonstration
 
 ### **Frontend Application Demo**
-> 📹 **[View Frontend Demo Video](link-to-video)**
+> 📹 **[Watch TourEase Demo Video](https://github.com/ER-Bhagyashri-Pagar/TourEase/blob/main/TourEase%20Demo.mp4)**
 > 
 > *Complete walkthrough of the React.js frontend application showcasing:*
-> - Interactive tour browsing and selection
-> - Custom package builder interface
-> - Real-time booking management
+> - Interactive tour browsing and selection interface
+> - Custom travel package builder functionality
+> - Real-time booking management system
 > - User dashboard and profile management
-> - Responsive design across devices
+> - Responsive design across multiple devices
+> - Integration with backend database services
 
-*Note: Due to file size limitations, the complete source code is not included in this repository. The video demonstration provides a comprehensive overview of the frontend implementation.*
+### **Project Presentation**
+> 📊 **[View Project Presentation](./TourEase.pptx)**
+> 
+> *Comprehensive project presentation covering:*
+> - System architecture and design decisions
+> - Database modeling and implementation phases
+> - Business requirements and technical solutions
+> - Performance metrics and analytics insights
+> - Future enhancement possibilities
+
+*Note: The complete source code repository was too large for GitHub upload limits. This repository contains the essential database components, documentation, and demonstration materials showcasing the full system capabilities.*
 
 ## 💻 Technical Implementation
 
