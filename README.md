@@ -83,7 +83,11 @@
 ## 🎥 Project Demonstration
 
 ### **Frontend Application Demo**
-> 📹 **[Watch TourEase Demo Video](https://github.com/ER-Bhagyashri-Pagar/TourEase/blob/main/TourEase%20Demo.mp4)**
+> 📹 **[TourEase Demo Video](https://github.com/ER-Bhagyashri-Pagar/TourEase/blob/main/TourEase%20Demo.mp4)**
+> 
+> *🔽 To view the demo video (71.3 MB):*
+> - **Option 1**: Click the link above, then click **"Raw"** to download and view
+> - **Option 2**: Clone this repository: `git clone https://github.com/ER-Bhagyashri-Pagar/TourEase.git`
 > 
 > *Complete walkthrough of the React.js frontend application showcasing:*
 > - Interactive tour browsing and selection interface
@@ -94,7 +98,11 @@
 > - Integration with backend database services
 
 ### **Project Presentation**
-> 📊 **[View Project Presentation](./TourEase.pptx)**
+> 📊 **[View Project Presentation](https://github.com/ER-Bhagyashri-Pagar/TourEase/blob/main/TourEase.pptx)**
+> 
+> *🔽 To view the presentation:*
+> - **Option 1**: Click the link above, then click **"Download"** to view locally
+> - **Option 2**: Use GitHub's online PowerPoint viewer (if available)
 > 
 > *Comprehensive project presentation covering:*
 > - System architecture and design decisions
